@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+backend/.venv/
+backend/venv/
+
+# Production builds
+dist/
+build/
+
+# Python cache & test files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local

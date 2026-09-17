@@ -1,0 +1,9 @@
+{
+  "name": "casco-it-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "start-app.bat",
+    "dev": "start-app.bat"
+  }
+}
